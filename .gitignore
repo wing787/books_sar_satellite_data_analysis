@@ -1,6 +1,6 @@
 # For my env
 .DS_Store
-*/data/
+data/
 /org/
 .png
 .jpeg
